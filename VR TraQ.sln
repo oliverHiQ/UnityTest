@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{434843E4-AA43-1149-E7B0-9898CDD245FD}") = "VR TraQ", "Assembly-CSharp.csproj", "{6A0829E8-393E-8610-686E-36EA76EF479A}"
+EndProject
+Project("{434843E4-AA43-1149-E7B0-9898CDD245FD}") = "VR TraQ", "Assembly-CSharp-Editor.csproj", "{400AA8F3-EAE7-09E3-CAA4-2FAC42495C28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A0829E8-393E-8610-686E-36EA76EF479A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0829E8-393E-8610-686E-36EA76EF479A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0829E8-393E-8610-686E-36EA76EF479A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0829E8-393E-8610-686E-36EA76EF479A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{400AA8F3-EAE7-09E3-CAA4-2FAC42495C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400AA8F3-EAE7-09E3-CAA4-2FAC42495C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400AA8F3-EAE7-09E3-CAA4-2FAC42495C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400AA8F3-EAE7-09E3-CAA4-2FAC42495C28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
